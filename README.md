@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Derek 👋
 
+- 🌱 I’m currently learning front-end development.
 <!--
 **derek-eckhardt-schmidt/derek-eckhardt-schmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
