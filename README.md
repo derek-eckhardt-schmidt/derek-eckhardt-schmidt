@@ -1,6 +1,9 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+
 ### Hi there, my name is Derek! 
 
-- I’m currently learning front-end development<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>.
+- I’m currently learning front-end development <i class="devicon-javascript-plain"></i>
 <!--
 **derek-eckhardt-schmidt/derek-eckhardt-schmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
