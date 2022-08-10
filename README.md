@@ -1,6 +1,6 @@
 ### Hi there, my name is Derek! 
 
-- I’m currently learning front-end development <i class="devicon-html5-plain"></i><i class="devicon-css3-plain"></i><i class="devicon-javascript-plain"></i>.
+- I’m currently learning front-end development<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />.
 <!--
 **derek-eckhardt-schmidt/derek-eckhardt-schmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
