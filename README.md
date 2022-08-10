@@ -9,6 +9,8 @@
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
+- 🤝 I’m looking for an oppportunity to **work professionally as a developer**
+
 - 📫 How to reach me **derekschmidt333@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
